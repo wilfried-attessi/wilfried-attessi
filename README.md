@@ -1,4 +1,4 @@
-## From networks to data — and loving every bit of it.
+## From networks to data and loving every bit of it.
 
 I started out configuring routers and monitoring network 
 infrastructure in Abidjan, then founded and ran my own IT 
